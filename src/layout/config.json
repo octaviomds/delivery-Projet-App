@@ -1,0 +1,28 @@
+{
+  "DASHBOARD_DATA": [
+    {
+      "name": "Category",
+      "urlPath": "/category"
+    },
+    {
+      "name": "Products",
+      "urlPath": "/products"
+    },
+    {
+      "name": "Brands",
+      "urlPath": "/brands"
+    },
+    {
+      "name": "Users",
+      "urlPath": "/users"
+    },
+    {
+      "name": "Orders",
+      "urlPath": "/orders"
+    },
+    {
+      "name": "Settings",
+      "urlPath": "/settings"
+    }
+  ]
+}
